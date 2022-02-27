@@ -19,4 +19,6 @@ Optional extras:
 
 ## The rest
 
+Feel free to use any external packages.
+
 Please do not hesitate to get in touch with any questions you have during the process.
